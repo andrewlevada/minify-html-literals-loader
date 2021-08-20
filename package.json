@@ -1,0 +1,13 @@
+{
+  "name": "minify-html-literals-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "minify-html-literals": "^1.3.5"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
