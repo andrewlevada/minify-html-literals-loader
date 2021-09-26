@@ -1,13 +1,12 @@
 {
   "name": "minify-html-literals-loader",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Webpack loader wrapper of minify-html-literals",
   "main": "index.js",
   "license": "MIT",
-  "peerDependencies": {
-    "minify-html-literals": "^1.3.5"
-  },
+  "homepage": "https://github.com/AndrewLevada/minify-html-literals-loader",
   "dependencies": {
+    "minify-html-literals": "^1.3.5",
     "loader-utils": "^2.0.0"
   }
 }
