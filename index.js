@@ -5,5 +5,6 @@ module.exports = function(src) {
   // Skip files without html literals
   let htmlLiteralsMatch = src.match(/html`([^`]*)`/g);
   if (!htmlLiteralsMatch) return src;
-  return minify(src, getOptions(this)).code;
+  const minified = minify(src, getOptions(this));
+  return minified ? minified.code : src;
 };
