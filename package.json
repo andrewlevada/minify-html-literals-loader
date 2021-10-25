@@ -1,6 +1,6 @@
 {
   "name": "minify-html-literals-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Webpack loader wrapper of minify-html-literals",
   "main": "index.js",
   "license": "MIT",
