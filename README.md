@@ -1,6 +1,7 @@
 # minify-html-literals-loader
 
 ![npm](https://img.shields.io/npm/v/minify-html-literals-loader)
+![npm](https://img.shields.io/npm/dw/minify-html-literals-loader)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/andrewlevada/minify-html-literals-loader)
 
 Webpack loader wrapper of [minify-html-literals](https://www.npmjs.com/package/minify-html-literals).
